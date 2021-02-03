@@ -1,11 +1,12 @@
 h1 {
     font-size: 3rem;
     text-shadow: 2px 4px 4px #0a0707;
-    font-weight:900;
+    font-weight: 900;
     color: rgb(12, 247, 12);
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Carter One', cursive;
 }
 
@@ -26,9 +27,28 @@ nav ul {
     margin: auto;
 }
 
-.navbar-nav > li{
-    
-    padding-right:20px;
+.navbar-nav>li {
+
+    padding-right: 50px;
+}
+
+nav a {
+    transition: 0.3s ease;
+    background: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    padding: 20px 0;
+    margin: 0 5px;
+    font-size: 17px;
+}
+
+nav a:hover {
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    padding: 6px 0;
 }
 
 .media {
