@@ -27,13 +27,13 @@ nav ul {
     margin: auto;
 }
 
-.navbar-nav>li {
+.navbar-nav li {
 
     padding-right: 50px;
 }
 
 nav a {
-    transition: 0.3s ease;
+    transition: 0.8s ease;
     background: black;
     color: white;
     font-size: 20px;
@@ -61,5 +61,9 @@ nav a:hover {
 }
 
 .site-footer h2 {
-    color: rgb(12, 247, 12);
+    color: white;
+}
+
+.footer-div ul li a {
+color: white;
 }
