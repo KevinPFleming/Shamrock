@@ -67,3 +67,14 @@ nav a:hover {
 .footer-div ul li a {
 color: white;
 }
+
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.card-body ul li {
+    background-color: rgb(0, 0, 0, 0.1);
+    margin-top: 1rem;
+    font-size: large;
+}
