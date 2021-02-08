@@ -79,3 +79,13 @@ nav a:hover {
 footer ul li a i{
     color: white;
 }
+
+.carousel-caption{
+    background-color: rgb(0, 0, 0, 0.3);
+    top: 0;
+    bottom: auto;
+}
+
+.carousel-item{
+    height: 400px;
+}
