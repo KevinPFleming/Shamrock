@@ -93,3 +93,11 @@ footer ul li a i {
 form label {
     font-weight: 900;
 }
+
+.modal-title{
+    color: white;
+}
+
+.modal-header{
+    background-color: black;
+}
