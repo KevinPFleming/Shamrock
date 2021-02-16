@@ -58,12 +58,17 @@ nav a:hover {
 
 .site-footer {
     background-color: black;
+
 }
 
 .site-footer h2 {
     color: white;
 }
 
+.footer-div{
+    border-style: solid;
+    border-color: ivory;
+}
 
 .card-header {
     background-color: black;
