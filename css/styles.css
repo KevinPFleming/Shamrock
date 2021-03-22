@@ -28,7 +28,6 @@ nav ul {
 }
 
 .navbar-nav li {
-
     padding-right: 50px;
 }
 
@@ -63,12 +62,16 @@ nav a:hover {
 
 .site-footer h2 {
     color: white;
+    margin-top: 10px;
 }
 
-.footer-div{
+.footer-div {
     border-style: solid;
     border-color: ivory;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
 }
+
 
 .card-header {
     background-color: black;
@@ -99,10 +102,10 @@ form label {
     font-weight: 900;
 }
 
-.modal-title{
+.modal-title {
     color: white;
 }
 
-.modal-header{
+.modal-header {
     background-color: black;
 }
